@@ -3,3 +3,9 @@ Automated workflows improve consistency across different environments.
 This approach helps minimize human error during builds and deployments.
 Automation also enables faster feedback during development.
 These principles form the foundation of continuous integration.
+
+Source control plays a key role in enabling continuous integration.
+Frequent code changes trigger automated build and validation processes.
+Early detection of issues helps reduce debugging time.
+Smaller and incremental changes are easier to track and maintain.
+This workflow supports a faster development cycle.
