@@ -2,3 +2,4 @@ COMP 2156 is DevOps for System Administration.
 This course teaches Git and GitHub.
 Students learn about version control and automation.
 CI/CD is part of DevOps practices.
+Git branching helps team collaboration.
