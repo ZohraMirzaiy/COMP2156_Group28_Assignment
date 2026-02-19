@@ -3,3 +3,4 @@ This course teaches Git and GitHub.
 Students learn about version control and automation.
 CI/CD is part of DevOps practices.
 Git branching helps team collaboration.
+Automation improves software delivery speed.
