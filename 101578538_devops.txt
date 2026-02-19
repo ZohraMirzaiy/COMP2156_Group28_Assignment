@@ -5,3 +5,7 @@ A big part of DevOps is automation. When you automate builds, tests, and deploym
 DevOps also continues after deployment. Monitoring and logging matter because they give fast feedback on what is happening in production. If something goes wrong, teams can detect it earlier, understand the impact, and respond with fixes before it becomes a bigger issue. This is one of the reasons DevOps supports reliability in real-world systems.
 
 In practice, tools like Git support DevOps by keeping changes traceable and easy to review or roll back. Branching, pull requests, and clear commit messages make teamwork smoother and reduce messy changes. CI tools like GitHub Actions can connect directly to the repo, so testing and builds happen automatically as the project evolves.
+
+Overall, DevOps is not just about tools, but about creating a workflow that balances speed and stability. When automation, monitoring, and collaboration are applied well, software delivery becomes more reliable and easier to maintain over time.
+
+Overall, DevOps is not just about tools, but about creating a workflow that balances speed and stability. When automation, monitoring, and collaboration are applied well, software delivery becomes more reliable and easier to maintain over time.
