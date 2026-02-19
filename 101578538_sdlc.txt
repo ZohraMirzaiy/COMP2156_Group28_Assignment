@@ -5,3 +5,7 @@ This makes it easier to deliver updates more consistently and reduces the waitin
 One of the main benefits of DevOps in the SDLC is that it improves both speed and reliability at the same time. With automated testing and deployment pipelines, teams can release updates faster without feeling like they are taking big risks every time they push a change.
 
 Instead of waiting until the very end to find problems, issues can be detected earlier in the process. This makes the overall development cycle more stable and less stressful for the team.
+
+Another important aspect is continuous monitoring and feedback after deployment. DevOps encourages teams to keep an eye on how the application behaves in production, instead of assuming everything will always work perfectly.
+
+When logs, metrics, and alerts are in place, teams can quickly notice unusual behavior, understand what went wrong, and apply fixes sooner. This creates a strong feedback loop that keeps improving the software over time.
