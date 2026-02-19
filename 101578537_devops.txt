@@ -21,3 +21,5 @@ Reducing manual steps increases predictability and stability.
 Automated processes allow faster and safer releases.
 The pipeline supports continuous improvement and scalability.
 This results in a more efficient software delivery lifecycle.
+
+DevOps is not only about tools and automation, but also about collaboration and shared responsibility between teams.
