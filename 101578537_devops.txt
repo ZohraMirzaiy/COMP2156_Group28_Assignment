@@ -1,0 +1,5 @@
+DevOps practices emphasize automation to reduce manual and repetitive tasks.
+Automated workflows improve consistency across different environments.
+This approach helps minimize human error during builds and deployments.
+Automation also enables faster feedback during development.
+These principles form the foundation of continuous integration.
