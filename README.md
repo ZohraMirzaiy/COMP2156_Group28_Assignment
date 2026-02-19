@@ -6,6 +6,7 @@
 - **Branch:** 101580722-Cristiliano  
 
 ## Repository Structure
+```
 COMP2156_Group#_Assignment/
 │
 ├─ README.md
@@ -13,3 +14,4 @@ COMP2156_Group#_Assignment/
 │ ├─ 101580722_gb.txt
 │ ├─ 101580722_devops.txt
 │ └─ 101580722_sdlc.txt
+```
