@@ -1,2 +1,3 @@
+COMP 2156 DevOps teaches continuous integration, delivery, and automation.
 Using version control ensures every changes is documented, reversible and reduce risk of erasing colleges work.
 It supports better communication across the team through transparent changes.
