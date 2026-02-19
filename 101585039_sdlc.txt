@@ -2,3 +2,6 @@ A DevOps engineer is extremely helpful in the software devolpment cycle
 because it helps organize and improve the work between the employees.
 It gives an efficient structure to have better communication to automate
 processes, reduce errors and speed up software delivery. 
+Aditionally, DevOps promotes continuos deployment, which means software
+can be tested and released faster and more reliably. All of this helps 
+to get better quality in the projects.
