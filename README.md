@@ -1,6 +1,6 @@
 "# COMP2156 Group 28 Assignment" 
 
-**----**
+
 **Cristiliano Leandro Machado Junior**  
 - **Student ID:** 101580722  
 - **Branch:** 101580722-Cristiliano  
