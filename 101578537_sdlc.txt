@@ -3,3 +3,9 @@ It helps remove silos that traditionally slow down software delivery.
 By promoting collaboration, DevOps ensures that software is built with deployment and maintenance in mind.
 This alignment improves efficiency across all SDLC phases.
 As a result, development becomes more predictable and organized.
+
+Automation is a core DevOps practice that improves efficiency throughout the SDLC.
+Automated builds, testing, and deployments reduce manual effort and human error.
+This allows teams to focus on problem-solving and innovation instead of repetitive tasks.
+Automation also ensures consistent behavior across development, testing, and production environments.
+Overall, it accelerates the software delivery process.
