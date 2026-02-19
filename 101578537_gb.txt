@@ -1,3 +1,6 @@
 This file contain information about the George Brown College.
 
 George Brown College is a well-known public college located in the heart of downtown Toronto.
+
+It is recognized for its strong focus on hands-on, career-oriented education.
+The college has close connections with industry partners, helping students gain real-world experience.
