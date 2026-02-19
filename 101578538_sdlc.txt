@@ -1,0 +1,3 @@
+DevOps plays an important role in the software development life cycle (SDLC) because it helps connect development, testing, deployment, and maintenance into one smoother flow. Instead of seeing each phase as something separate, DevOps encourages teams to think about the whole process from start to finish.
+
+This makes it easier to deliver updates more consistently and reduces the waiting time between stages, especially when teams are working on frequent changes.
