@@ -5,4 +5,3 @@ and one indivudual), and two exams (midterm and final).
 The lab exercieses help students practice and understand more what was 
 taught in the lectures, providing different step-by-step instructions
 to complete the tasks successfully.
-
