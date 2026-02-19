@@ -12,3 +12,6 @@ In many cases, the value received does not seem proportional to the amount paid.
 
 Despite the college’s strong reputation, the quality of teaching can vary significantly.
 In some courses, professors do not properly explain the content, relying heavily on pre-made PDFs instead of delivering structured and engaging lectures that support real learning.
+
+Students are often required to attend classes in person, even when the learning experience could be delivered remotely.
+Many spend up to one and a half hours commuting, only to arrive and realize that the class consists mainly of reading a PDF independently, with little guidance or interaction.
