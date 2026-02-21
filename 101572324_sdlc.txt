@@ -5,3 +5,5 @@ This file explains why DevOps matters in SDLC.
 CI/CD reduces manual errors and speeds up delivery.
 
 CI/CD reduces manual errors and speeds up delivery.
+
+Automation improves consistency across development, testing, and production.
