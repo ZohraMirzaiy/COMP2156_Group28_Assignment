@@ -7,3 +7,5 @@ Key topics include Git, CI/CD, automation, and infrastructure basics.
 Good commit messages describe what changed and why it changed.
 
 Common DevOps tools include Docker, Jenkins, and GitHub Actions.
+
+Through this assignment, I learned how branching and merging works in Git.
