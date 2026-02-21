@@ -3,3 +3,5 @@ It offers diploma, degree, and postgraduate programs.
 I am writing this file as part of COMP 2156 Group Assignment.
 
 Campuses include Casa Loma, St. James, and Waterfront.
+
+GBC emphasizes practical learning, labs, and industry-focused projects.
