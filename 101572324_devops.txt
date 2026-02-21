@@ -1,3 +1,5 @@
 COMP 2156 focuses on DevOps for system administration.
 DevOps combines development and operations to deliver software faster and reliably.
 This file contains course-related notes in my own words.
+
+Key topics include Git, CI/CD, automation, and infrastructure basics.
