@@ -7,3 +7,5 @@ CI/CD reduces manual errors and speeds up delivery.
 CI/CD reduces manual errors and speeds up delivery.
 
 Automation improves consistency across development, testing, and production.
+
+DevOps encourages collaboration between developers and system administrators.
