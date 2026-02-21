@@ -1,0 +1,3 @@
+DevOps improves the Software Development Life Cycle (SDLC) by automating builds, tests, and deployments.
+It helps teams release more frequently with better quality and faster feedback.
+This file explains why DevOps matters in SDLC.
