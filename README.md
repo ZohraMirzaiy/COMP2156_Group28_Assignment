@@ -2,3 +2,5 @@
 
 ## Member Contribution
 - 101572324-Gursewak: added required files and commits on personal branch.
+
+- Total commits by 101572324-Gursewak updated.
