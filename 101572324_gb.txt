@@ -1,0 +1,14 @@
+George Brown College (GBC) is a public college in Toronto, Canada.
+It offers diploma, degree, and postgraduate programs.
+I am writing this file as part of COMP 2156 Group Assignment.
+
+Campuses include Casa Loma, St. James, and Waterfront.
+
+GBC emphasizes practical learning, labs, and industry-focused projects.
+
+Student services and career support help with co-op and job readiness.
+
+
+---
+Summary:
+George Brown focuses on practical education.
