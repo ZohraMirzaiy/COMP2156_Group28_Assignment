@@ -1,0 +1,5 @@
+DevOps plays an important role in the Software Development Life Cycle.
+It improves collaboration between development and operations teams.
+Automation makes deployment faster and more reliable.
+DevOps reduces deployment errors.
+Continuous monitoring improves reliability.
