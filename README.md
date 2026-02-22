@@ -8,15 +8,6 @@ This project includes 10 commits where I made step-by-step updates to three diff
 - Tracked changes through 10 separate commits
 - Worked with branches and merged changes properly
 
-## Commit Chart
-
-| Commit # |
-|----------|-------------|
-| 1 | 101587658_gbc.txt |
-| 2 | 101587658_devops.txt |
-| 3 | 101587658_sd1c.txt|
-
-
 ## Author
 Zohra Mirzaiy  
 Computer System Technician Student
