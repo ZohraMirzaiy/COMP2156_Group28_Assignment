@@ -1,2 +1,3 @@
 DevOps is important in the software development life cycle because it connects development and operations into one continuous process. Instead of working in separate silos, teams share responsibility for building, testing, deploying, and monitoring applications. Automation of builds, tests, and deployments reduces manual errors and speeds up releases. Continuous integration and delivery allow small changes to reach users faster and with more confidence. Overall, DevOps practices make the SDLC more efficient, transparent, and reliable, which leads to higher quality software and happier customers.
 DevOps improves collaboration between developers, testers, and operations teams.
+Continuous monitoring in production helps teams catch issues early.
