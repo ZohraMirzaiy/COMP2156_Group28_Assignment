@@ -1,0 +1,7 @@
+COMP2156 course is about learning different protocols and procedures that
+DevOps engineer use to help and improve the productivity in the workplace.
+It includes 8 lecture quizzes, 8 lab exercises, two assignments (one groups
+and one indivudual), and two exams (midterm and final).
+The lab exercieses help students practice and understand more what was 
+taught in the lectures, providing different step-by-step instructions
+to complete the tasks successfully.
